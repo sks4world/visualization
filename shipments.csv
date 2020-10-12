@@ -1,0 +1,11 @@
+shipping_id,origin,destination,status
+1,Vancouver,New York,On time
+2,Vancouver,Seattle,On time
+3,Vancouver,Seattle,Delayed
+4,Toronto,Tampa,Delayed
+5,Toronto,Tampa,On time
+6,Calgary,Tampa,On time
+7,Ontorio,Tampa,Delayed
+8,Ontorio,Orlando,On time
+9,Ontorio,Houston,On time
+10,Ontorio,Houston,On time
